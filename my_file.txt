@@ -1,0 +1,6 @@
+Hello, world!
+This is a file handling assignment.
+I am a PLP student.
+Hello, world!
+This is a file handling assignment.
+I am a PLP student.
